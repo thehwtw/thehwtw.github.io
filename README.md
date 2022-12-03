@@ -1,5 +1,6 @@
 # My Main Site
-hwweb.i234.me/wordpress
-#Youtube
-youtube.com/@thehwtw
+https://hwweb.i234.me/wordpress
+ 
+YouTube: https://YouTube.com/@thehwtw
+
 
